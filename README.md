@@ -1,2 +1,2 @@
 # Yamaha-Admin-Panel
- Web App Development - Admin Panel 
+ Web Application Development - Admin Panel
